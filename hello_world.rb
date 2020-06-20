@@ -1,3 +1,4 @@
 puts "Hello World!"
 
-blank = "aaa" puts blank
+blank = "aaa"
+puts blank
